@@ -1,0 +1,42 @@
+[
+    {
+        "Brand": "Nvidia",
+        "Name": "RTX 3080 Ti",
+        "Price": 1200,
+        "Stock" : 25
+    },
+    {
+        "Brand": "Nvidia",
+        "Name": "RTX 3080",
+        "Price": 750,
+        "Stock" : 25
+    },
+
+    {
+        "Brand" : "Nvidia",
+        "Name": "RTX 3060",
+        "Price": 500,
+        "Stock" : 25
+    },
+
+    {
+        "Brand": "Nvidia",
+        "Name": "RTX 2080 Super",
+        "Price": 350,
+        "Stock" : 25
+    },
+
+    {
+        "Brand": "Nvidia",
+        "Name": "RTX 2080 Ti",
+        "Price": 400,
+        "Stock" : 25
+    },
+
+        {
+            "Brand": "Asus",
+            "Name": "27 Inch 1ms gaming monitor",
+            "Price": 425,
+            "Stock" : 15
+        }
+]

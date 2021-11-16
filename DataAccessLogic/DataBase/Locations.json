@@ -1,0 +1,12 @@
+[
+    {
+        "Location": "Columbia",
+        "Address": "872 National Guard Rd",
+        "Hours": "10:00AM - 6:00PM"
+    },
+    {
+        "Location": "Charleston",
+        "Address": "135 Garland Way",
+        "Hours":"10:00AM - 6:00PM"
+    }
+]
